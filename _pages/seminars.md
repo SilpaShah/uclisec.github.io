@@ -13,12 +13,6 @@ Upcoming events
 TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
 <!----->
-<img src="../images/ewasyta.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
-- 3 June 2021, 16:00  
-**Ewa Syta, Trinity College (Hartford, CT)**  
-TBA  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpf-2grTorGNxFnItdfR3SSG89tgyB9Zeh)] [[Live Stream]()]<details><br></details>
-<!----->
 <img src="../images/nicolaschristin.jpg" style="float:right;width:100px;height:100px;margin-top:15px">
 - 10 June 2021, 16:00  
 **Nicolas Christin, Carnegie Mellon University**  
